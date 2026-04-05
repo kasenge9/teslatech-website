@@ -10,3 +10,8 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Deployment Note
+
+This repository no longer includes Vercel deployment assets.
+Deploy using your preferred hosting provider and CI/CD workflow.
